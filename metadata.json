@@ -1,22 +1,16 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Programming: Interpreters",
+    "slug": "programming-interpreters",
+    "description": "A high-level introduction to the concept of interpreters.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
